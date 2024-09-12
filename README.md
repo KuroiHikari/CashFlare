@@ -69,13 +69,13 @@ npm install
   dotnet ef database update
 ```
 
-### 3. Set up the backend:
+### 4. Set up the backend:
 - Make sure you're in CashFlare/api folder
 ```bash
 dotnet restore
 ```
 
-### 4. API Key:
+### 5. API Key:
 - You will need to create an account from [Financial Modeling Prep API](https://site.financialmodelingprep.com/) to fetch financial data
 - After registering, go to dashboard and copy the API key
 - Add this API key to your project in CashFlare/frontend/.env and CashFlare/api/appsettings.json (replace YOUR_API_KEY with API key from the website)
