@@ -2,7 +2,7 @@
 
 This project is a web-based financial application built with **React (TypeScript, HTML, CSS)** for the frontend and **ASP.NET API** for the backend. The application provides financial help by allowing users to search for companies, store them in a portfolio, and view detailed financial information such as company profiles, income statements, balance sheets, and cash flow statements.
 
-<img src="https://github.com/user-attachments/assets/a621a80f-972e-42a5-b55c-a5f217fe9dfc" width="330" height=auto alt="Image 1">
+<img src="https://github.com/user-attachments/assets/a9b1274a-47c0-4395-b0f7-92924e96a2aa" width="330" height=auto alt="Image 1">
 <img src="https://github.com/user-attachments/assets/03f1e3c5-60db-48b5-a1f5-86f9960cf133" width="330" height=auto alt="Image 2">
 <img src="https://github.com/user-attachments/assets/059e5428-3814-4316-a930-569d22da4d91" width="330" height=auto alt="Image 3">
 <img src="https://github.com/user-attachments/assets/f4b7b298-b213-4fe1-a324-109d871d67a0" width="330" height=auto alt="Image 4">
