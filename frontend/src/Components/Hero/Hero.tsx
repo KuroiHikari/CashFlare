@@ -14,8 +14,7 @@ const Hero = (props: Props) => {
             Your Spark for Financial Success.
           </h1>
           <p className="text-2xl text-center text-gray-400 lg:max-w-md lg:text-left">
-            Search relevant financial documents without fear mongering and fake
-            news.
+            Quick insights. Smart growth. Your money, powered up.
           </p>
           <div className="mx-auto lg:mx-0">
             <Link to="/search" className="py-5 px-10 text-2xl font-bold text-white bg-lightRed rounded lg:py-4 hover:opacity-70">
